@@ -65,6 +65,8 @@
 - 完成功能划分，并分配工作
 - Model建模分析
 - URL、View、Template配置
+- 学习HTML
+- 完成Template
 - 功能实现
 
 
