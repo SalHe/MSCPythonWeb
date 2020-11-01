@@ -6,4 +6,4 @@
 
 ## 实训项目
 
-- [单词助手](单词记忆助手.md)
+- [单词助手](./WordAssistant/WordAssistant.md)

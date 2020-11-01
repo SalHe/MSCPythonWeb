@@ -66,3 +66,10 @@
 - Model建模分析
 - URL、View、Template配置
 - 功能实现
+
+
+
+## 数据库建模
+
+- [PDMan建模文件](WordAssistant.pdman.json)(请使用PDMan打开WordAssistant.pdman.json)
+
